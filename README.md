@@ -8,5 +8,5 @@
 
 ### Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixchen-tw&layout=compact&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixchen-tw&theme=react" />
 </div>
