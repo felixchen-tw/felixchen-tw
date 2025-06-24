@@ -3,7 +3,7 @@
 ### About Me
 - From Taiwan
 - NTUST CSIE
-- GDG on Campus NTUST Core Team from 2023
+- GDG on Campus NTUST Core Team (2023-2025)
 - Interested in Front-end & Hosting
 
 ### Stats
