@@ -4,7 +4,7 @@
 - From Taiwan
 - NTUST CSIE
 - GDG on Campus NTUST Core Team (2023-2025)
-- Interested in Front-end & Hosting
+- Interested in Front-end & DevOps
 
 ### Stats
 <div>
